@@ -1,2 +1,2 @@
 # Tvarit-Meal-Kit-Platform
-Tvarit, an Meal kit platform that simplifies meal planning with personalized recipes, smart grocery lists, and grocery delivery.
+Tvarit, an Meal kit platform that simplifies meal planning with personalized recipes, smart grocery lists, and grocery delivery. I built a responsive web app to make meal planning simple and fun, using HTML, CSS, and JavaScript. I helped create AI features that recommend recipes, generate smart grocery lists, and even offer grocery delivery with the recipes. We used React, Node.js, and MongoDB for the full stack. I also talked to over 35 users to get real feedback and improve the product. The goal was to make healthy eating easy and cut down on food waste.
